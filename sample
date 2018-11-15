@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html lang="jp">
+<script type="text/javascript" src="sample.js">
+<a href="javascript:Hello">クリック</a>
+</script>
+</html>
